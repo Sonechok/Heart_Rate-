@@ -1,0 +1,2 @@
+D:\Проект\MiBand (2) (3)\MiBand\App3\App3.csproj;x86
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\MiBand2SDK.csproj;neutral

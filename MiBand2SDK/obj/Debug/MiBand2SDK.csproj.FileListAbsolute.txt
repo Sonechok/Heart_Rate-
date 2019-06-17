@@ -1,0 +1,118 @@
+C:\Users\Alex\source\repos\MiBand2SDK\MiBand2SDK\bin\Debug\MiBand2SDK.dll
+C:\Users\Alex\source\repos\MiBand2SDK\MiBand2SDK\bin\Debug\MiBand2SDK.pdb
+C:\Users\Alex\source\repos\MiBand2SDK\MiBand2SDK\bin\Debug\MiBand2SDK.pri
+C:\Users\Alex\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\MiBand2SDK.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\MiBand2SDK.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\MiBand2SDK.dll
+C:\Users\Alex\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\MiBand2SDK.pdb
+C:\Users\Alex\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\priconfig.xml
+C:\Users\Alex\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\priconfig.xml.intermediate
+C:\Users\Alex\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\layout.resfiles
+C:\Users\Alex\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\layout.resfiles.intermediate
+C:\Users\Alex\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\resources.resfiles
+C:\Users\Alex\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\resources.resfiles.intermediate
+C:\Users\Alex\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\pri.resfiles
+C:\Users\Alex\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\pri.resfiles.intermediate
+C:\Users\Alex\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\qualifiers.txt
+C:\Users\Alex\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Alex\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\inoze\source\repos\MiBand2SDK\MiBand2SDK\bin\Debug\MiBand2SDK.dll
+C:\Users\inoze\source\repos\MiBand2SDK\MiBand2SDK\bin\Debug\MiBand2SDK.pdb
+C:\Users\inoze\source\repos\MiBand2SDK\MiBand2SDK\bin\Debug\MiBand2SDK.pri
+C:\Users\inoze\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\MiBand2SDK.csproj.CoreCompileInputs.cache
+C:\Users\inoze\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\MiBand2SDK.dll
+C:\Users\inoze\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\MiBand2SDK.pdb
+C:\Users\inoze\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\priconfig.xml
+C:\Users\inoze\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\priconfig.xml.intermediate
+C:\Users\inoze\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\layout.resfiles
+C:\Users\inoze\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\layout.resfiles.intermediate
+C:\Users\inoze\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\resources.resfiles
+C:\Users\inoze\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\resources.resfiles.intermediate
+C:\Users\inoze\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\pri.resfiles
+C:\Users\inoze\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\pri.resfiles.intermediate
+C:\Users\inoze\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\qualifiers.txt
+C:\Users\inoze\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\qualifiers.txt.intermediate
+C:\Users\inoze\source\repos\MiBand2SDK\MiBand2SDK\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\inoze\source\repos\Mi-Band-2-SDK-Git\MiBand2SDK\bin\Debug\MiBand2SDK.dll
+C:\Users\inoze\source\repos\Mi-Band-2-SDK-Git\MiBand2SDK\bin\Debug\MiBand2SDK.pdb
+C:\Users\inoze\source\repos\Mi-Band-2-SDK-Git\MiBand2SDK\bin\Debug\MiBand2SDK.pri
+C:\Users\inoze\source\repos\Mi-Band-2-SDK-Git\MiBand2SDK\obj\Debug\MiBand2SDK.csproj.CoreCompileInputs.cache
+C:\Users\inoze\source\repos\Mi-Band-2-SDK-Git\MiBand2SDK\obj\Debug\MiBand2SDK.dll
+C:\Users\inoze\source\repos\Mi-Band-2-SDK-Git\MiBand2SDK\obj\Debug\MiBand2SDK.pdb
+C:\Users\inoze\source\repos\Mi-Band-2-SDK-Git\MiBand2SDK\obj\Debug\priconfig.xml
+C:\Users\inoze\source\repos\Mi-Band-2-SDK-Git\MiBand2SDK\obj\Debug\priconfig.xml.intermediate
+C:\Users\inoze\source\repos\Mi-Band-2-SDK-Git\MiBand2SDK\obj\Debug\layout.resfiles
+C:\Users\inoze\source\repos\Mi-Band-2-SDK-Git\MiBand2SDK\obj\Debug\layout.resfiles.intermediate
+C:\Users\inoze\source\repos\Mi-Band-2-SDK-Git\MiBand2SDK\obj\Debug\resources.resfiles
+C:\Users\inoze\source\repos\Mi-Band-2-SDK-Git\MiBand2SDK\obj\Debug\resources.resfiles.intermediate
+C:\Users\inoze\source\repos\Mi-Band-2-SDK-Git\MiBand2SDK\obj\Debug\pri.resfiles
+C:\Users\inoze\source\repos\Mi-Band-2-SDK-Git\MiBand2SDK\obj\Debug\pri.resfiles.intermediate
+C:\Users\inoze\source\repos\Mi-Band-2-SDK-Git\MiBand2SDK\obj\Debug\qualifiers.txt
+C:\Users\inoze\source\repos\Mi-Band-2-SDK-Git\MiBand2SDK\obj\Debug\qualifiers.txt.intermediate
+C:\Users\inoze\source\repos\Mi-Band-2-SDK-Git\MiBand2SDK\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\MiBand2SDK.csproj.CoreCompileInputs.cache
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\MiBand2SDK.dll
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\MiBand2SDK.pdb
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\bin\Debug\MiBand2SDK.dll
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\bin\Debug\MiBand2SDK.pdb
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\bin\Debug\MiBand2SDK.pri
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\priconfig.xml
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\priconfig.xml.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\unfiltered.layout.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\unfiltered.layout.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\filtered.layout.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\filtered.layout.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\excluded.layout.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\excluded.layout.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\resources.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\resources.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\pri.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\pri.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\qualifiers.txt
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\qualifiers.txt.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\MiBand2SDK\obj\Debug\MiBand2SDK.csprojAssemblyReference.cache
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\bin\Debug\MiBand2SDK.dll
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\bin\Debug\MiBand2SDK.pdb
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\bin\Debug\MiBand2SDK.pri
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\MiBand2SDK.csprojAssemblyReference.cache
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\MiBand2SDK.csproj.CoreCompileInputs.cache
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\MiBand2SDK.dll
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\MiBand2SDK.pdb
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\priconfig.xml
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\priconfig.xml.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\unfiltered.layout.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\unfiltered.layout.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\filtered.layout.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\filtered.layout.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\excluded.layout.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\excluded.layout.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\resources.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\resources.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\pri.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\pri.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\qualifiers.txt
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\qualifiers.txt.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\MiBand2SDK\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\bin\Debug\MiBand2SDK.dll
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\bin\Debug\MiBand2SDK.pdb
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\bin\Debug\MiBand2SDK.pri
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\MiBand2SDK.csprojAssemblyReference.cache
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\MiBand2SDK.csproj.CoreCompileInputs.cache
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\MiBand2SDK.dll
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\MiBand2SDK.pdb
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\priconfig.xml
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\priconfig.xml.intermediate
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\unfiltered.layout.resfiles
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\unfiltered.layout.resfiles.intermediate
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\filtered.layout.resfiles
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\filtered.layout.resfiles.intermediate
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\excluded.layout.resfiles
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\excluded.layout.resfiles.intermediate
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\resources.resfiles
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\resources.resfiles.intermediate
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\pri.resfiles
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\pri.resfiles.intermediate
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\qualifiers.txt
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\qualifiers.txt.intermediate
+D:\Проект\MiBand (2) (3)\MiBand\MiBand2SDK\obj\Debug\MultipleQualifiersPerDimensionFound.txt

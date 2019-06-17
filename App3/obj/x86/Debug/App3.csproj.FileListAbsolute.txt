@@ -1,0 +1,153 @@
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\bin\x86\Debug\App.xbf
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\bin\x86\Debug\MainPage.xbf
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\bin\x86\Debug\App3.xr.xml
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\bin\x86\Debug\App3.exe
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\bin\x86\Debug\App3.pdb
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\bin\x86\Debug\resources.pri
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\bin\x86\Debug\AppxManifest.xml
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\bin\x86\Debug\Core\App3.exe
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\bin\x86\Debug\Core\AppxManifest.xml
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\bin\x86\Debug\App3.build.appxrecipe
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\bin\x86\Debug\System.Runtime.dll
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\bin\x86\Debug\MiBand2SDK.dll
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\bin\x86\Debug\MiBand2SDK.pdb
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\bin\x86\Debug\MiBand2SDK.pri
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\App3.csprojAssemblyReference.cache
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\App.g.i.cs
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\App.g.cs
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\MainPage.g.i.cs
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\MainPage.g.cs
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\App.xaml
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\MainPage.xaml
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\App.xbf
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\MainPage.xbf
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\XamlSaveStateFile.xml
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\App3.csproj.CoreCompileInputs.cache
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\App3.csproj.CopyComplete
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\App3.exe
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\App3.pdb
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\ResourceHandlingTask.state
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\priconfig.xml
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\priconfig.xml.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\unfiltered.layout.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\filtered.layout.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\excluded.layout.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\resources.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\resources.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\pri.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\pri.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\qualifiers.txt
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\qualifiers.txt.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\Mi-Band-2-SDK-master\App3\obj\x86\Debug\ProjectArchitectures.txt
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\bin\x86\Debug\App.xbf
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\bin\x86\Debug\MainPage.xbf
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\bin\x86\Debug\App3.xr.xml
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\bin\x86\Debug\App3.exe
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\bin\x86\Debug\App3.pdb
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\bin\x86\Debug\resources.pri
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\bin\x86\Debug\AppxManifest.xml
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\bin\x86\Debug\Core\App3.exe
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\bin\x86\Debug\Core\AppxManifest.xml
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\bin\x86\Debug\App3.build.appxrecipe
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\bin\x86\Debug\System.Runtime.dll
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\bin\x86\Debug\MiBand2SDK.dll
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\bin\x86\Debug\MiBand2SDK.pdb
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\bin\x86\Debug\MiBand2SDK.pri
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\App3.csprojAssemblyReference.cache
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\App.g.i.cs
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\App.g.cs
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\MainPage.g.i.cs
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\MainPage.g.cs
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\App.xaml
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\MainPage.xaml
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\App.xbf
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\MainPage.xbf
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\XamlSaveStateFile.xml
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\App3.csproj.CoreCompileInputs.cache
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\App3.csproj.CopyComplete
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\App3.exe
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\App3.pdb
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\ResourceHandlingTask.state
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\priconfig.xml
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\priconfig.xml.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\unfiltered.layout.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\filtered.layout.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\excluded.layout.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\resources.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\resources.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\pri.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\pri.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\qualifiers.txt
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\qualifiers.txt.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\ProjectArchitectures.txt
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\bin\x86\Debug\WinRTXamlToolkit.dll
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\bin\x86\Debug\WinRTXamlToolkit.Controls.DataVisualization.dll
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\WinRTXamlToolkit.Controls.DataVisualization\en-US\WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resw
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\resources.en-us.resfiles
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\resources.en-us.resfiles.intermediate
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\WinRTXamlToolkit.pri.xml
+D:\LESSON_NEW\C_SHARP\Mi-Band-2-SDK-master\MiBand\App3\obj\x86\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri.xml
+D:\Проект\MiBand (2) (3)\MiBand\App3\bin\x86\Debug\App.xbf
+D:\Проект\MiBand (2) (3)\MiBand\App3\bin\x86\Debug\MainPage.xbf
+D:\Проект\MiBand (2) (3)\MiBand\App3\bin\x86\Debug\resources.pri
+D:\Проект\MiBand (2) (3)\MiBand\App3\bin\x86\Debug\AppxManifest.xml
+D:\Проект\MiBand (2) (3)\MiBand\App3\bin\x86\Debug\Core\App3.exe
+D:\Проект\MiBand (2) (3)\MiBand\App3\bin\x86\Debug\Core\AppxManifest.xml
+D:\Проект\MiBand (2) (3)\MiBand\App3\bin\x86\Debug\App3.build.appxrecipe
+D:\Проект\MiBand (2) (3)\MiBand\App3\bin\x86\Debug\System.Runtime.dll
+D:\Проект\MiBand (2) (3)\MiBand\App3\bin\x86\Debug\WinRTXamlToolkit.dll
+D:\Проект\MiBand (2) (3)\MiBand\App3\bin\x86\Debug\WinRTXamlToolkit.Controls.DataVisualization.dll
+D:\Проект\MiBand (2) (3)\MiBand\App3\bin\x86\Debug\MiBand2SDK.dll
+D:\Проект\MiBand (2) (3)\MiBand\App3\bin\x86\Debug\MiBand2SDK.pdb
+D:\Проект\MiBand (2) (3)\MiBand\App3\bin\x86\Debug\MiBand2SDK.pri
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\App3.csprojAssemblyReference.cache
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\App.g.i.cs
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\App.g.cs
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\MainPage.g.i.cs
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\MainPage.g.cs
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\App.xaml
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\MainPage.xaml
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\App.xbf
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\MainPage.xbf
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\App3.csproj.CoreCompileInputs.cache
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\App3.csproj.CopyComplete
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\ResourceHandlingTask.state
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\WinRTXamlToolkit.Controls.DataVisualization\en-US\WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resw
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\priconfig.xml
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\priconfig.xml.intermediate
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\filtered.layout.resfiles
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\excluded.layout.resfiles
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\resources.resfiles
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\resources.resfiles.intermediate
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\pri.resfiles
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\pri.resfiles.intermediate
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\qualifiers.txt
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\resources.en-us.resfiles
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\resources.en-us.resfiles.intermediate
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\WinRTXamlToolkit.pri.xml
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri.xml
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\ProjectArchitectures.txt
+D:\Проект\MiBand (2) (3)\MiBand\App3\bin\x86\Debug\Heart Rate.xr.xml
+D:\Проект\MiBand (2) (3)\MiBand\App3\bin\x86\Debug\Heart Rate.exe
+D:\Проект\MiBand (2) (3)\MiBand\App3\bin\x86\Debug\Heart Rate.pdb
+D:\Проект\MiBand (2) (3)\MiBand\App3\bin\x86\Debug\Core\Heart Rate.exe
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\Heart Rate.exe
+D:\Проект\MiBand (2) (3)\MiBand\App3\obj\x86\Debug\Heart Rate.pdb
